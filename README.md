@@ -2,7 +2,7 @@
 - 👀 I’m interested in LIFE
 - 🌱 I’m currently learning Javascript
 - 💞️ Visual Design
-- 📫 IG: phi4_13
+- 📫 This Github
 
 <!---
 KIB-Phi-Kif/KIB-Phi-Kif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
